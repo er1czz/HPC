@@ -1,1 +1,1 @@
-# HPC scripts compilation
+# Kaggle DS practice
