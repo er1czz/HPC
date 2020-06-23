@@ -1,1 +1,1 @@
-# DS Showcase
+# Kaggle Practice Note
