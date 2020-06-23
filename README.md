@@ -1,1 +1,1 @@
-# Kaggle Practice Note
+# Kaggle log
