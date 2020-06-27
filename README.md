@@ -1,3 +1,3 @@
 # Kaggle data challenge log
-### Titanic: random forest, pscore 0.742 (Future: Monte Carlo to fill the missing data)
-### House price
+### Titanic Survival Prediction: random forest classification, f1 score 0.742 (Future: Monte Carlo to fill the missing data)
+### House Price Prediction: random forest regression, r2 score 0.972
