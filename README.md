@@ -1,4 +1,4 @@
-# Kaggle data challenge log
+# Kaggle data challenge log and Misc
 ### 1. RMS Titanic Survival Prediction
 - random forest classification, **accuracy** score 0.81930 for training and 0.77033 for testing
 - Accuracy score: higher score is better, testing score provided by Kaggle
@@ -8,3 +8,6 @@
 - RMLE (Root Mean Squared Log Error): lower score is better, testing score provided by Kaggle
 - to-do: exploratory data analysis and feature selection
 
+# Misc
+### Monte Carlo 
+- MC calculation on Dice and Pi with Numpy Random
