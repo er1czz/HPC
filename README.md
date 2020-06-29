@@ -12,3 +12,8 @@
 # Misc
 ### Monte Carlo
 - MC calculation on Dice and Pi with Numpy Random
+
+#### Source  
+https://www.kaggle.com/c/titanic  
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques  
+https://www.kaggle.com/c/ieee-fraud-detection/  
