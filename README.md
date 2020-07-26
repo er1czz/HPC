@@ -7,7 +7,7 @@
 - random forest regression, **RMLE** score 0.14319 for training and 0.18125 for testing 
 - RMLE (Root Mean Squared Log Error): lower score is better, testing score provided by Kaggle
 - to-do: exploratory data analysis and feature selection
-### 3 [Fraud Detection (training and testing, fullset)](https://github.com/er1czz/kaggle/blob/master/Fraud_Detection_fullset.ipynb)
+### 3 [IEEE-CIS Fraud Detection (training and testing, fullset)](https://github.com/er1czz/kaggle/blob/master/Fraud_Detection_fullset.ipynb)
 - data anomaly, skewed data, data preprocess
 - Random Forest classifier: reasonable model fitting and anomaly detection 
 - XGboost overfitted
