@@ -9,7 +9,7 @@
 - to-do: exploratory data analysis and feature selection
 ### 3 Fraud Detection (training and testing)
 - data anomaly, skewed data, data preprocess
-- Random Forest classifier: reasonable fitting and prediction. 
+- Random Forest classifier: reasonable model fitting and anomaly detection 
 - XGboost overfitted
 - Logistic regression unsuitable
 
