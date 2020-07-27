@@ -11,7 +11,7 @@
 [<b>Round 1</b>](https://github.com/er1czz/kaggle/blob/master/Fraud_Detection_fullset.ipynb): 
 - Data preprocess
 - Logistic, XGboost, Random Forest 
-- Issue: feature oversimplified
+- Issue: feature oversimplified  
 <b>Round 2 in progress </b>
 
 
