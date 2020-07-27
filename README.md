@@ -13,7 +13,7 @@
 - Logistic, XGboost, Random Forest Classifications
 - Issue: feature selection  
 
-<b>Round 2 in progress </b>
+<b>Round 2 in progress ... </b>
 - Aim to improve the practice of feature selection
 
 # Misc
