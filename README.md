@@ -11,10 +11,10 @@
 [<b>Round 1</b>](https://github.com/er1czz/kaggle/blob/master/Fraud_Detection_fullset.ipynb): 
 - Data preprocess
 - Logistic, XGboost, Random Forest Classifications
-- Issue: feature oversimplified  
+- Issue: feature selection  
 
 <b>Round 2 in progress </b>
-
+- Aim to improve the practice of feature selection
 
 # Misc
 ### Monte Carlo
