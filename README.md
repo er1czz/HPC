@@ -12,6 +12,7 @@
 - Data preprocess
 - Logistic, XGboost, Random Forest 
 - Issue: feature oversimplified  
+
 <b>Round 2 in progress </b>
 
 
