@@ -17,8 +17,8 @@
 - Aim to improve the practice of feature selection
 
 # Misc
-### [Monte Carlo](https://github.com/er1czz/kaggle/blob/master/Monte%20Carlo's%20Dice%20and%20Pi.ipynb)
-- MC calculation on Dice and Pi with Numpy Random
+### Monte Carlo
+- [MC calculation on Dice and Pi with Numpy Random](https://github.com/er1czz/kaggle/blob/master/Monte%20Carlo's%20Dice%20and%20Pi.ipynb)
 
 #### Data Sources (Kaggle)  
 1. https://www.kaggle.com/c/titanic  
