@@ -12,7 +12,7 @@
 
 Credit card fraud is a common financial fraud that using a payment card to proceed a transaction with illegitimate nature. Researchers specialized in fraud dection often encouter such challenge: how to maximaize the transaction security with minimal hassles to clients. With the recent advance in machine learning and computation technology, this challenge can be addressed by implementing high accuracy fraud detection, which brings virtually no hassle to customers.       
 
-This project intends to develop a predicative model based on machine learning algorithms. The goal is to maximize the detection rate of fradulent accounts and to minimize the number of false alarms (false positive events).
+This project intends to develop a predicative model based on machine learning algorithms. The goal is to maximize the detection rate of fradulent activities and to minimize the number of false alarms (false positive events).
 
 [<b>Round 1</b>](https://github.com/er1czz/kaggle/blob/master/Fraud_Detection_fullset.ipynb): 
 - Issue: feature selection  
