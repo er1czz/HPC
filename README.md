@@ -29,11 +29,11 @@ This project intends to develop a predicative model based on machine learning al
 <b>Round 3</b> in progress ...
 - Continue improving the predication accuracy using different data processing techniques (e.g. feature aggregation) 
 
-## Data Sources (Kaggle)  
+## Data Sources from Kaggle  
 1. RMS Titanic Survival Prediction  https://www.kaggle.com/c/titanic  
 2. Ames House Price Prediction https://www.kaggle.com/c/house-prices-advanced-regression-techniques  
 3. IEEE-CIS Fraud Detection https://www.kaggle.com/c/ieee-fraud-detection/  
 
 # Misc
 ### Monte Carlo
-- [MC calculation on Dice and Pi with Numpy Random](https://github.com/er1czz/kaggle/blob/master/Monte%20Carlo's%20Dice%20and%20Pi.ipynb)
+- [Monte Carlo calculation on Dice and Pi with Numpy Random](https://github.com/er1czz/kaggle/blob/master/Monte%20Carlo's%20Dice%20and%20Pi.ipynb)
