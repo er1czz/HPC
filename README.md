@@ -30,9 +30,9 @@ This project intends to develop a predicative model based on machine learning al
 - Continue improving the predication accuracy using different data processing techniques (e.g. feature aggregation) 
 
 ## Data Sources (Kaggle)  
-1. https://www.kaggle.com/c/titanic  
-2. https://www.kaggle.com/c/house-prices-advanced-regression-techniques  
-3. https://www.kaggle.com/c/ieee-fraud-detection/  
+1. RMS Titanic Survival Prediction  https://www.kaggle.com/c/titanic  
+2. Ames House Price Prediction https://www.kaggle.com/c/house-prices-advanced-regression-techniques  
+3. IEEE-CIS Fraud Detection https://www.kaggle.com/c/ieee-fraud-detection/  
 
 # Misc
 ### Monte Carlo
