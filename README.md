@@ -27,7 +27,7 @@ This project intends to develop a predicative model based on machine learning al
 - F<sub>1</sub> score 0.73 by Logistic model 
 
 <b>Round 3</b> in progress ...
-- Continue improving the predication accuracy using techniques such as feature aggregation. 
+- Continue improving the predication accuracy using different data processing techniques (e.g. feature aggregation) 
 
 # Misc
 ### Monte Carlo
