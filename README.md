@@ -12,15 +12,18 @@
 
 Credit card fraud is a common financial fraud that using a payment card to proceed a transaction with illegitimate nature. Researchers specialized in fraud dection often encouter such challenge: how to maximaize the transaction security with minimal hassles to clients. With the recent advance in machine learning and computation technology, this challenge can be addressed by implementing high accuracy fraud detection, which brings virtually no hassle to customers.       
 
-This project intends to develop a predicative model based on machine learning algorithms. The goal is to maximize the detection rate of fradulent transactions and to minimize the number of false alarms (false positive events). Data are provided by [Kaggle.com](https://www.kaggle.com/c/ieee-fraud-detection) 
+This project intends to develop a predicative model based on machine learning algorithms. The goal is to maximize the detection rate of fradulent transactions and to minimize the number of false alarms (false positive events).
 
 [<b>Round 1</b>](https://github.com/er1czz/kaggle/blob/master/Fraud_Detection_fullset.ipynb): 
 - Data preprocess
 - Logistic, XGboost, Random Forest Classifications
 - Issue: feature selection  
 
-<b>Round 2 in progress ... </b>
-- Aim to improve the practice of feature selection
+[<b>Round 2</b>](https://github.com/er1czz/kaggle/blob/master/Fraud_Detection_fullset_2.ipynb)
+- Feature with over 90% values missing were discarded. The missing values were replaced with mean for the rest.
+- F<sub>1</sub> score of 0.94 by XGboost model 
+- F<sub>1</sub> score of 0.87 by RandomForest model 
+- F<sub>1</sub> score of 0.73 by Logistic model 
 
 # Misc
 ### Monte Carlo
