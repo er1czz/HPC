@@ -22,12 +22,12 @@ This project intends to develop a predicative model based on machine learning al
 
 [<b>Round 2</b>](https://github.com/er1czz/kaggle/blob/master/Fraud_Detection_fullset_2.ipynb):
 - Improvement: feature selection
-- F<sub>1</sub> score 0.94 by XGboost model 
-- F<sub>1</sub> score 0.87 by RandomForest model 
-- F<sub>1</sub> score 0.73 by Logistic model 
+- F<sub>1</sub> score 0.70 by XGboost model 
+- F<sub>1</sub> score 0.44 by RandomForest model 
+- F<sub>1</sub> score 0.28 by Logistic model 
 
 <b>Round 3</b> in progress ...
-- Continue improving the predication accuracy using different data processing techniques (e.g. feature aggregation) 
+- Continue improving the predication power using different techniques for data processing and model optimization. 
 
 ## Data Sources from Kaggle  
 1. RMS Titanic Survival Prediction  https://www.kaggle.com/c/titanic  
