@@ -33,7 +33,7 @@ This project intends to develop a predicative model based on machine learning al
 - F<sub>1</sub> score 0.48 by RandomForest model 
 - F<sub>1</sub> score 0.19 by Logistic model 
 - Improvement: feature selection based on importance
-- To do: model optimization
+- To do: model optimization, data normalization
 
 <b> Round 4</b> in progress
 
