@@ -14,20 +14,27 @@ Credit card fraud is a common financial fraud that using a payment card to proce
 
 This project intends to develop a predicative model based on machine learning algorithms. The goal is to maximize the detection rate of fradulent activities while minimizing the number of false alarms (false positive events).
 
-[<b>Round 1</b>](https://github.com/er1czz/kaggle/blob/master/Fraud_Detection_fullset.ipynb): 
-- Issue: feature selection  
+[<b>Round 1</b>](https://github.com/er1czz/kaggle/blob/master/Fraud_Detection_fullset.ipynb):  
 - F<sub>1</sub> score 0.15 by XGboost model 
 - F<sub>1</sub> score 0.29 by RandomForest model 
 - F<sub>1</sub> score 0.15 by Logistic model 
+- Issue: feature selection 
 
 [<b>Round 2</b>](https://github.com/er1czz/kaggle/blob/master/Fraud_Detection_fullset_2.ipynb):
-- Improvement: feature selection
 - F<sub>1</sub> score 0.70 by XGboost model 
 - F<sub>1</sub> score 0.44 by RandomForest model 
 - F<sub>1</sub> score 0.28 by Logistic model 
+- Improvement: data cleaning
 
-<b>Round 3</b> in progress ...
-- Continue improving the predication power using different techniques for data processing and model optimization. 
+[<b>Round 3</b>](https://github.com/er1czz/kaggle/blob/master/Fraud_Detection_fullset_3.ipynb)   
+- F<sub>1</sub> score 0.68 by XGboost model
+- F<sub>1</sub> score 0.58 by LightGBM model
+- F<sub>1</sub> score 0.44 by RandomForest model 
+- F<sub>1</sub> score 0.18 by Logistic model 
+- Improvement: feature selection
+- To do: model optimization
+
+<b> Round 4</b> in progress
 
 ## Data Sources from Kaggle  
 1. RMS Titanic Survival Prediction  https://www.kaggle.com/c/titanic  
