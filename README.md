@@ -8,7 +8,7 @@
 - RMLE (Root Mean Squared Log Error): lower score is better, testing score provided by Kaggle
 - to-do: exploratory data analysis and feature selection
 ### 3. IEEE-CIS Fraud Detection
-<img src="https://github.com/er1czz/kaggle/blob/master/unsplash_transaction.JPG?raw=true" align = "left" style = "border:10px solid white">  
+<img src="https://github.com/er1czz/kaggle/blob/master/unsplash_transaction.JPG?raw=true" align = "right" style = "border:10px solid white">  
 
 Credit card fraud is a common financial fraud that using a payment card to proceed a transaction with illegitimate nature. Researchers specialized in fraud dection often encouter such challenge: how to maximaize the transaction security with minimal hassles to clients. With the recent advance in machine learning and computation technology, this challenge can be addressed by implementing high accuracy fraud detection algorithms without bringing additional hassle to customers.       
 
