@@ -18,21 +18,21 @@ This project intends to develop a predicative model based on machine learning al
 - F<sub>1</sub> score 0.15 by XGboost model 
 - F<sub>1</sub> score 0.29 by RandomForest model 
 - F<sub>1</sub> score 0.15 by Logistic model 
-- Issue: data cleaning and feature selection 
+- To do: data cleaning, feature selection 
 
 [<b>Round 2</b>](https://github.com/er1czz/kaggle/blob/master/Fraud_Detection_fullset_2.ipynb):
 - F<sub>1</sub> score 0.70 by XGboost model 
 - F<sub>1</sub> score 0.44 by RandomForest model 
 - F<sub>1</sub> score 0.28 by Logistic model 
 - Improvement: data cleaning
-- To-do: feature selection
+- To do: feature selection
 
 [<b>Round 3</b>](https://github.com/er1czz/kaggle/blob/master/Fraud_Detection_fullset_3.ipynb)   
 - F<sub>1</sub> score 0.62 by LightGBM model
 - F<sub>1</sub> score 0.61 by XGBoost model
 - F<sub>1</sub> score 0.48 by RandomForest model 
 - F<sub>1</sub> score 0.19 by Logistic model 
-- Improvement: feature selection based on importance
+- Improvement: feature selection based on importances
 - To do: model optimization, data normalization
 
 <b> Round 4</b> in progress
