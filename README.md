@@ -14,20 +14,20 @@ Credit card fraud is a common financial fraud. During pandemic, shopping everyth
 
 This project intends to develop a predicative model based on machine learning algorithms. The goal is to maximize the detection rate of fradulent activities while minimizing the number of false alarms (false positive events). High precision and high recall.
 
-[<b>Version 1</b> (click)](https://github.com/er1czz/kaggle/blob/master/Fraud_Detection_fullset.ipynb)   
+[<b>Version 1</b>](https://github.com/er1czz/kaggle/blob/master/Fraud_Detection_fullset.ipynb)   
 - F<sub>1</sub> score 0.15 by XGboost model 
 - F<sub>1</sub> score 0.29 by RandomForest model 
 - F<sub>1</sub> score 0.15 by Logistic model 
 - To do: data cleaning, feature selection 
 
-[<b>Version 2</b> (click)](https://github.com/er1czz/kaggle/blob/master/Fraud_Detection_fullset_2.ipynb)
+[<b>Version 2</b>](https://github.com/er1czz/kaggle/blob/master/Fraud_Detection_fullset_2.ipynb)
 - F<sub>1</sub> score 0.70 by XGboost model 
 - F<sub>1</sub> score 0.44 by RandomForest model 
 - F<sub>1</sub> score 0.28 by Logistic model 
 - Improvement: data cleaning
 - To do: feature selection
 
-[<b>Version 3</b> (click)](https://github.com/er1czz/kaggle/blob/master/Fraud_Detection_fullset_3.ipynb)   
+[<b>Version 3</b>](https://github.com/er1czz/kaggle/blob/master/Fraud_Detection_fullset_3.ipynb)   
 - F<sub>1</sub> score 0.65 by XGBoost model
 - F<sub>1</sub> score 0.60 by LightGBM model
 - F<sub>1</sub> score 0.49 by RandomForest model 
