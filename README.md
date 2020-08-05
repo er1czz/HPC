@@ -2,11 +2,11 @@
 ### 1. RMS Titanic Survival Prediction (testing water) - [analysis](https://github.com/er1czz/kaggle/blob/master/Titanic_analysis.ipynb) - [classification](https://github.com/er1czz/kaggle/blob/master/Titanic_classifier.ipynb)
 - Random forest classification, **accuracy** score 0.81930 for training and 0.77033 for testing
 - Accuracy score: higher score is better, testing score provided by Kaggle
-- to-do: Monte Carlo to simulate the missing data, especially passenger age.
+- To do: Monte Carlo to simulate the missing data, especially passenger age.
 ### 2. Ames House Price Prediction (model fitting practice) - [analysis](https://github.com/er1czz/kaggle/blob/master/House_prices_analysis.ipynb) - [regression](https://github.com/er1czz/kaggle/blob/master/House_prices_regression.ipynb)
 - Random forest regression, **RMLE** score 0.14319 for training and 0.18125 for testing 
 - RMLE (Root Mean Squared Log Error): lower score is better, testing score provided by Kaggle
-- to-do: exploratory data analysis and feature selection
+- To do: exploratory data analysis and feature selection
 ### 3. IEEE-CIS Fraud Detection
 <img src="https://github.com/er1czz/kaggle/blob/master/unsplash_transaction.JPG?raw=true" align = "right" style = "border:10px solid white">  
 
@@ -14,20 +14,20 @@ Credit card fraud is a common financial fraud. During pandemic, shopping everyth
 
 This project intends to develop a predicative model based on machine learning algorithms. The goal is to maximize the detection rate of fradulent activities while minimizing the number of false alarms (false positive events). High precision and high recall.
 
-[<b>Round 1</b> (click)](https://github.com/er1czz/kaggle/blob/master/Fraud_Detection_fullset.ipynb)   
+[<b>Version 1</b> (click)](https://github.com/er1czz/kaggle/blob/master/Fraud_Detection_fullset.ipynb)   
 - F<sub>1</sub> score 0.15 by XGboost model 
 - F<sub>1</sub> score 0.29 by RandomForest model 
 - F<sub>1</sub> score 0.15 by Logistic model 
 - To do: data cleaning, feature selection 
 
-[<b>Round 2</b> (click)](https://github.com/er1czz/kaggle/blob/master/Fraud_Detection_fullset_2.ipynb)
+[<b>Version 2</b> (click)](https://github.com/er1czz/kaggle/blob/master/Fraud_Detection_fullset_2.ipynb)
 - F<sub>1</sub> score 0.70 by XGboost model 
 - F<sub>1</sub> score 0.44 by RandomForest model 
 - F<sub>1</sub> score 0.28 by Logistic model 
 - Improvement: data cleaning
 - To do: feature selection
 
-[<b>Round 3</b> (click)](https://github.com/er1czz/kaggle/blob/master/Fraud_Detection_fullset_3.ipynb)   
+[<b>Version 3</b> (click)](https://github.com/er1czz/kaggle/blob/master/Fraud_Detection_fullset_3.ipynb)   
 - F<sub>1</sub> score 0.65 by XGBoost model
 - F<sub>1</sub> score 0.60 by LightGBM model
 - F<sub>1</sub> score 0.49 by RandomForest model 
@@ -35,7 +35,7 @@ This project intends to develop a predicative model based on machine learning al
 - Improvement: feature selection
 - To do: model optimization, data normalization, learning curve
 
-<b> Round 4</b> in progress
+<b> Version 4</b> in progress
 
 ## Data Sources from Kaggle  
 1. RMS Titanic Survival Prediction  https://www.kaggle.com/c/titanic  
