@@ -1,4 +1,4 @@
-# data challenge log
+# Data challenge log
 ### 1. RMS Titanic Survival Prediction (testing water) - [analysis](https://github.com/er1czz/kaggle/blob/master/Titanic_analysis.ipynb) - [classification](https://github.com/er1czz/kaggle/blob/master/Titanic_classifier.ipynb)
 - Random forest classification, **accuracy** score 0.81930 for training and 0.77033 for testing
 - Accuracy score: higher score is better, testing score provided by Kaggle
