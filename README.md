@@ -12,7 +12,7 @@
 
 Credit card fraud is a common financial fraud. During pandemic, shopping everything online is the new norm. How to maximaize the transaction security with minimal hassles to clients? With the recent advance in machine learning and computation technology, this challenge can be addressed by implementing high accuracy predictive algorithms by machine learning.       
 
-This project intends to develop a predicative model based on machine learning algorithms. The goal is to maximize the detection rate of fradulent activities while minimizing the number of false alarms (false positive events). High precision and high recall.
+This project intends to develop a predicative model based on machine learning algorithms. The goal is to maximize the detection rate of fradulent activities while minimizing the number of false alarms (false positive events). To improve the model's performance, such as precision and recall, one need to consider the customers' need and how the decision affects the business. Large financial insititutes may perfer high recall model due to the large number of transactions, whereas small ones may emphasize on the model precision.
 
 [<b>Version 1</b>](https://github.com/er1czz/kaggle/blob/master/Fraud_Detection_fullset.ipynb)   
 - F<sub>1</sub> score 0.15 by XGboost model 
