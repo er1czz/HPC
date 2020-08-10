@@ -4,7 +4,7 @@
 - Accuracy score: higher score is better, testing score provided by Kaggle
 - To do: Monte Carlo to simulate the missing data, especially passenger age.
 ### 2. Ames House Price Prediction (model fitting practice) - [analysis](https://github.com/er1czz/kaggle/blob/master/House_prices_analysis.ipynb) - [regression](https://github.com/er1czz/kaggle/blob/master/House_prices_regression.ipynb)
-- Random forest regression, **RMLE** score 0.14319 for training and 0.18125 for testing 
+- Random forest regression, **RMSE** score 0.14319 for training and 0.18125 for testing 
 - RMLE (Root Mean Squared Log Error): lower score is better, testing score provided by Kaggle
 - To do: exploratory data analysis and feature selection
 ### 3. IEEE-CIS Fraud Detection
