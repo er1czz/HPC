@@ -56,7 +56,7 @@ Optimal settings:
 - subsample \[0.5, 1\]
 - n_estimater 1000  
 - max_depth \[6, 9\]  
--- consisten with the best settings found in version 4 <b>(learning_rate=0.1, subsample=1.0 ,n_estimators=1000, max_depth=9)</b>.
+which are consisten with the best settings found in version 4 <b>(learning_rate=0.1, subsample=1.0 ,n_estimators=1000, max_depth=9)</b>.
 
 ## Data Sources from Kaggle  
 1. RMS Titanic Survival Prediction  https://www.kaggle.com/c/titanic  
