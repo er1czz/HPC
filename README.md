@@ -33,9 +33,15 @@ This project intends to develop a predicative model based on machine learning al
 - F<sub>1</sub> score 0.49 by RandomForest model 
 - F<sub>1</sub> score 0.20 by Logistic model 
 - Improvement: feature selection
-- To do: model optimization, data normalization, learning curve, model space, cross-validation
+- To do: model optimization, data normalization, learning curve, cross-validation
 
-<b> Version 4</b> in progress
+[<b> Version 4</b>](https://github.com/er1czz/kaggle/blob/master/Fraud_Detection_fullset_3.ipynb)
+- F<sub>1</sub> score 0.71 by XGBoost model
+- F<sub>1</sub> score 0.60 by LightGBM model
+- F<sub>1</sub> score 0.48 by RandomForest model 
+- F<sub>1</sub> score 0.34 by Logistic model 
+- Improvement: data normalization, model optimization
+- Note: Due to the limit of computation power, no future work will be carried out for this data challenge such as learning curve and fine tuning of the model hyperparameter.
 
 ## Data Sources from Kaggle  
 1. RMS Titanic Survival Prediction  https://www.kaggle.com/c/titanic  
