@@ -41,7 +41,7 @@ This project intends to develop a predicative model based on machine learning al
 - F<sub>1</sub> score 0.48 by RandomForest model 
 - F<sub>1</sub> score 0.34 by Logistic model 
 - Improvement: data normalization, model optimization
-- Note: Due to the limit of computation power, no future work will be performed (e.g. cross-validation, learning curve, and the fine tuning of model hyperparameters).
+- Note: due to the limit of computation power, no future work will be performed (e.g. cross-validation, learning curve, and the fine tuning of model hyperparameters).
 
 ## Data Sources from Kaggle  
 1. RMS Titanic Survival Prediction  https://www.kaggle.com/c/titanic  
