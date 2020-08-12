@@ -47,8 +47,15 @@ Business impact:
 - High precision - less financial loss - favorable for small banking of limited number of transactions.
 - High recall - less false flags - better user experience - favorable for large banking.
 
-Note: 
+Note:
 - Due to the size of dataset and the limit of computation power, the following actions are not performed, such as cross-validation, learning curve, and the fine tuning of model hyperparameters.
+
+[Post analysis on hyperparameters](https://github.com/er1czz/kaggle/blob/master/XGB_opt.ipynb)
+Optimal setting
+- learning rate 0.1
+- subsample \[0.5, 1\]
+- n_estimater 1000
+- max_depth \[6, 9\]
 
 ## Data Sources from Kaggle  
 1. RMS Titanic Survival Prediction  https://www.kaggle.com/c/titanic  
