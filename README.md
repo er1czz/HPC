@@ -35,7 +35,7 @@ This project intends to develop a predicative model based on machine learning al
 - Improvement: feature selection
 - To do: model optimization, data normalization, learning curve, cross-validation
 
-[<b> Version 4</b>](https://github.com/er1czz/kaggle/blob/master/Fraud_Detection_fullset_3.ipynb)
+[<b> Version 4</b>](https://github.com/er1czz/kaggle/blob/master/Fraud_Detection_fullset_4.ipynb)
 - F<sub>1</sub> score 0.71 by XGBoost model
 - F<sub>1</sub> score 0.60 by LightGBM model
 - F<sub>1</sub> score 0.48 by RandomForest model 
