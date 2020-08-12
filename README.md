@@ -41,10 +41,12 @@ This project intends to develop a predicative model based on machine learning al
 - F<sub>1</sub> score 0.48 by RandomForest model 
 - F<sub>1</sub> score 0.34 by Logistic model 
 - Improvement: data normalization, model optimization
+
 Business impact: 
 - For fraud detection, both precision and recall need to be considered for evaluating model performance.
 - High precision - less financial loss - favorable for small banking of limited number of transactions.
 - High recall - less false flags - better user experience - favorable for large banking.
+
 Note: 
 - Due to the size of dataset and the limit of computation power, the following actions are not performed, such as cross-validation, learning curve, and the fine tuning of model hyperparameters.
 
