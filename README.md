@@ -1,10 +1,10 @@
 # Data challenge log
 ### 4. Mercedes-Benz Greener Manufacturing (in progress)
-<img src="https://github.com/er1czz/kaggle/blob/master/car_740_480.JPG?raw=true" align = "right" style = "border:10px solid white">  
+<img src="https://github.com/er1czz/data_challenges/blob/master/car_740_480.jpg?raw=true" align = "right" style = "border:10px solid white">  
 How to reduce the testing time?
 
 ### 3. IEEE-CIS Fraud Detection
-<img src="https://github.com/er1czz/kaggle/blob/master/unsplash_transaction.JPG?raw=true" align = "right" style = "border:10px solid white">  
+<img src="https://github.com/er1czz/data_challenges/blob/master/unsplash_transaction.JPG?raw=true" align = "right" style = "border:10px solid white">  
 
 Credit card fraud is a common financial fraud. During pandemic, shopping everything online is the new norm. How to maximaize the transaction security with minimal hassles to clients? With the recent advance in machine learning and computation technology, this challenge can be addressed by implementing high accuracy predictive algorithms by machine learning.       
 
