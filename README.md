@@ -48,7 +48,7 @@ Business impact:
 - High recall - less false flags - better user experience - favorable for large banking.
 
 Note:
-- Due to the size of dataset and the limit of computation power, the following actions are not performed, such as cross-validation, learning curve, and the fine tuning of model hyperparameters.
+- Due to the limit of computation power, the following computation-demanding actions are not performed, such as cross-validation, learning curve, and the fine tuning of model hyperparameters.
 
 [<b>Post analysis on hyperparameters</b>](https://github.com/er1czz/kaggle/blob/master/XGB_opt.ipynb)   
 Optimal settings:
