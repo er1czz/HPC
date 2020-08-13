@@ -1,6 +1,6 @@
 # Data challenge log
 ### 4. Mercedes-Benz Greener Manufacturing (in progress)
-How to reduce the testing time?  
+- How to reduce the testing time?  
 <img src="https://github.com/er1czz/data_challenges/blob/master/car_740_480.jpg?raw=true" align = "center">  
 
 ### 3. IEEE-CIS Fraud Detection
