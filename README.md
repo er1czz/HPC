@@ -1,4 +1,8 @@
 # Data challenge log
+### 4. Mercedes-Benz Greener Manufacturing (in progress)
+<img src="https://github.com/er1czz/kaggle/blob/master/car_740_480.JPG?raw=true" align = "right" style = "border:10px solid white">  
+How to reduce the testing time?
+
 ### 3. IEEE-CIS Fraud Detection
 <img src="https://github.com/er1czz/kaggle/blob/master/unsplash_transaction.JPG?raw=true" align = "right" style = "border:10px solid white">  
 
@@ -49,14 +53,14 @@ Note:
 - F<sub>1</sub> score 0.29 by RandomForest model 
 - F<sub>1</sub> score 0.15 by Logistic model 
 - To do: data cleaning, feature selection 
-### 1. RMS Titanic Survival Prediction (testing water) - [analysis](https://github.com/er1czz/kaggle/blob/master/Titanic_analysis.ipynb) - [classification](https://github.com/er1czz/kaggle/blob/master/Titanic_classifier.ipynb)
-- Random forest classification, **accuracy** score 0.81930 for training and 0.77033 for testing
-- Accuracy score: higher score is better, testing score provided by Kaggle
-- To do: Monte Carlo to simulate the missing data, especially passenger age.
 ### 2. Ames House Price Prediction (model fitting practice) - [analysis](https://github.com/er1czz/kaggle/blob/master/House_prices_analysis.ipynb) - [regression](https://github.com/er1czz/kaggle/blob/master/House_prices_regression.ipynb)
 - Random forest regression, **RMSE** score 0.14319 for training and 0.18125 for testing 
 - RMLE (Root Mean Squared Log Error): lower score is better, testing score provided by Kaggle
 - To do: exploratory data analysis and feature selection
+### 1. RMS Titanic Survival Prediction (testing water) - [analysis](https://github.com/er1czz/kaggle/blob/master/Titanic_analysis.ipynb) - [classification](https://github.com/er1czz/kaggle/blob/master/Titanic_classifier.ipynb)
+- Random forest classification, **accuracy** score 0.81930 for training and 0.77033 for testing
+- Accuracy score: higher score is better, testing score provided by Kaggle
+- To do: Monte Carlo to simulate the missing data, especially passenger age.
 ## Data Sources from Kaggle  
 1. RMS Titanic Survival Prediction  https://www.kaggle.com/c/titanic  
 2. Ames House Price Prediction https://www.kaggle.com/c/house-prices-advanced-regression-techniques  
