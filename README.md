@@ -10,17 +10,17 @@ Credit card fraud is a common financial fraud. During pandemic, shopping everyth
 
 This project intends to develop a predicative model based on machine learning algorithms. The goal is to maximize the detection rate of fradulent activities while minimizing the number of false alarms (false positive events). To improve the model's performance, such as precision and recall, one need to consider the customers' need and how the decision affects the business. Large financial insititutes may perfer high recall model due to the large number of transactions, whereas small ones may emphasize on the model precision.
 
+Business impact: 
+- For fraud detection, both precision and recall need to be considered for evaluating model performance.
+- High precision - less financial loss - favorable for small banking of limited number of transactions.
+- High recall - less false flags - better user experience - favorable for large banking.
+
 [<b> Latest Version 4</b>](https://github.com/er1czz/kaggle/blob/master/Fraud_Detection_fullset_4.ipynb)
 - F<sub>1</sub> score 0.71 by XGBoost model
 - F<sub>1</sub> score 0.60 by LightGBM model
 - F<sub>1</sub> score 0.48 by RandomForest model 
 - F<sub>1</sub> score 0.34 by Logistic model 
 - Improvement: data normalization, model optimization
-
-Business impact: 
-- For fraud detection, both precision and recall need to be considered for evaluating model performance.
-- High precision - less financial loss - favorable for small banking of limited number of transactions.
-- High recall - less false flags - better user experience - favorable for large banking.
 
 [<b>Post analysis on hyperparameters</b>](https://github.com/er1czz/kaggle/blob/master/XGB_opt.ipynb)   
 Optimal settings:
