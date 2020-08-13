@@ -63,10 +63,10 @@ Note:
 - To do: Monte Carlo to simulate the missing data, especially passenger age.
 
 ## Data Sources from Kaggle  
-4) Mercedes-Benz Greener Manufacturing  https://www.kaggle.com/c/mercedes-benz-greener-manufacturing  
-3) IEEE-CIS Fraud Detection https://www.kaggle.com/c/ieee-fraud-detection/  
-2) Ames House Price Prediction https://www.kaggle.com/c/house-prices-advanced-regression-techniques  
-1) RMS Titanic Survival Prediction  https://www.kaggle.com/c/titanic  
+\(4\) Mercedes-Benz Greener Manufacturing  https://www.kaggle.com/c/mercedes-benz-greener-manufacturing  
+\(3\) IEEE-CIS Fraud Detection https://www.kaggle.com/c/ieee-fraud-detection/  
+\(2\) Ames House Price Prediction https://www.kaggle.com/c/house-prices-advanced-regression-techniques  
+\(1\) RMS Titanic Survival Prediction  https://www.kaggle.com/c/titanic  
 
 # Misc
 ### Monte Carlo
