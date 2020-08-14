@@ -87,5 +87,5 @@ Note: due to the limit of computation power, computation-demanding actions are n
 - Business Man with a credit card by rupixen https://unsplash.com/photos/Q59HmzK38eQ
 
 # Misc 
-- [Monte Carlo calculation on Dice and Pi with Numpy Random](https://github.com/er1czz/kaggle/blob/master/Monte%20Carlo's%20Dice%20and%20Pi.ipynb)
-- Common packages for data challenges
+- [Monte Carlo calculation on Dice and Pi with Numpy Random](https://github.com/er1czz/kaggle/blob/master/Monte%20Carlo's%20Dice%20and%20Pi.ipynb)  
+- [Common packages for data challenges](https://github.com/er1czz/data_challenges/blob/master/install-packages.ipynb)
