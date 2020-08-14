@@ -75,11 +75,14 @@ Note: due to the limit of computation power, computation-demanding actions are n
 - Accuracy score: higher score is better, testing score provided by Kaggle
 - To do: Monte Carlo to simulate the missing data, especially passenger age.
 
-## Data Sources from Kaggle  
+### Data Sources from Kaggle.com  
 \(4\) Mercedes-Benz Greener Manufacturing  https://www.kaggle.com/c/mercedes-benz-greener-manufacturing  
 \(3\) IEEE-CIS Fraud Detection https://www.kaggle.com/c/ieee-fraud-detection/  
 \(2\) Ames House Price Prediction https://www.kaggle.com/c/house-prices-advanced-regression-techniques  
 \(1\) RMS Titanic Survival Prediction  https://www.kaggle.com/c/titanic  
+### Stock Photo Courtesy
+Car assembly line by Lenny Kuhne: https://unsplash.com/photos/jHZ70nRk7Ns
+Business Man with a credit card by rupixen https://unsplash.com/photos/Q59HmzK38eQ
 
 # Misc
 ### Monte Carlo
