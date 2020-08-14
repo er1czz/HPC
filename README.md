@@ -1,7 +1,10 @@
 # Data challenge log
-### 4. Mercedes-Benz Greener Manufacturing (in progress)
+### 4. [Mercedes-Benz Greener Manufacturing](https://github.com/er1czz/data_challenges/blob/master/Mercedes_Manufacturing_v2.ipynb)
 - How to reduce the testing time?  
-<img src="https://github.com/er1czz/data_challenges/blob/master/car_740_480.jpg?raw=true" align = "center" alt="drawing" width="370">  
+<img src="https://github.com/er1czz/data_challenges/blob/master/car_740_480.jpg?raw=true" align = "center" alt="drawing" width="370"> 
+- Used regression model to analyze the correlation between features and testing time.
+- Identified key features determining the test time.
+- Effort should be prioritized on optimizing those identified features.
 
 ### 3. IEEE-CIS Fraud Detection
 <img src="https://github.com/er1czz/data_challenges/blob/master/unsplash_transaction.JPG?raw=true" align = "right" style = "border:10px solid white">  
