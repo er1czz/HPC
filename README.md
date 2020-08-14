@@ -86,5 +86,6 @@ Note: due to the limit of computation power, computation-demanding actions are n
 - Car assembly line by Lenny Kuhne: https://unsplash.com/photos/jHZ70nRk7Ns
 - Business Man with a credit card by rupixen https://unsplash.com/photos/Q59HmzK38eQ
 
-# Misc (Monte Carlo)
+# Misc 
 - [Monte Carlo calculation on Dice and Pi with Numpy Random](https://github.com/er1czz/kaggle/blob/master/Monte%20Carlo's%20Dice%20and%20Pi.ipynb)
+- Common packages for data challenges
