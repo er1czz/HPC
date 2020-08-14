@@ -4,14 +4,14 @@
 
 <b>Situation</b>:  
 - Assembled automobiles need to be tested to ensure the safety and reliability.  
-- Testing is a time-consuming process     
-- Different cars have different configurations/features  
+- Testing is a time-consuming process.     
+- Different cars have different configurations/features.  
 
 <b>Task</b>: how to cut the testing time using a algorithmic approach?    
 
 <b>Action</b>: using regression models to identify key features that affect the testing time.  
 
-<b>Results</b>: regression models were applied to analyze the correlation between features and testing time  
+<b>Results</b>: regression models were applied to analyze the correlation between features and testing time.  
 
 <b>Takeaways</b>:  
 - Key features were identified. Effort should be prioritized on optimizing those key features.  
