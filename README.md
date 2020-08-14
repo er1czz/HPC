@@ -43,8 +43,7 @@
 - F<sub>1</sub> score 0.34 by Logistic model 
 - Improvement: data normalization, model optimization   
 
-Note:
-- Due to the limit of computation power, computation-demanding actions are not performed including cross-validation, learning curve, and the fine tuning of model hyperparameters.
+Note: due to the limit of computation power, computation-demanding actions are not performed including cross-validation, learning curve, and the fine tuning of model hyperparameters.
 
 <b> previous versions:</b>
 [Version 3](https://github.com/er1czz/kaggle/blob/master/Fraud_Detection_fullset_3.ipynb)   
