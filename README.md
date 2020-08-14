@@ -1,7 +1,5 @@
 # Data challenge log
 ### 4. [Mercedes-Benz Greener Manufacturing](https://github.com/er1czz/data_challenges/blob/master/Mercedes_Manufacturing_v2.ipynb)
-- Each assembled 
-- How to reduce the testing time?  
 <img src="https://github.com/er1czz/data_challenges/blob/master/car_740_480.jpg?raw=true" align = "right" alt="drawing" width="370"> 
 
 <b>Situation</b>:  
