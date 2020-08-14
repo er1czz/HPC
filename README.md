@@ -81,7 +81,7 @@ Data Sources from kaggle.com
 \(3\) IEEE-CIS Fraud Detection https://www.kaggle.com/c/ieee-fraud-detection/  
 \(2\) Ames House Price Prediction https://www.kaggle.com/c/house-prices-advanced-regression-techniques  
 \(1\) RMS Titanic Survival Prediction  https://www.kaggle.com/c/titanic  
-Stock Photos from unsplash.com
+Stock Photos from unsplash.com  
 Car assembly line by Lenny Kuhne: https://unsplash.com/photos/jHZ70nRk7Ns
 Business Man with a credit card by rupixen https://unsplash.com/photos/Q59HmzK38eQ
 
