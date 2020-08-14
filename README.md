@@ -77,13 +77,13 @@ Note: due to the limit of computation power, computation-demanding actions are n
 
 ## Data Sources:
 Data Sources from kaggle.com  
-\(4\) Mercedes-Benz Greener Manufacturing  https://www.kaggle.com/c/mercedes-benz-greener-manufacturing  
-\(3\) IEEE-CIS Fraud Detection https://www.kaggle.com/c/ieee-fraud-detection/  
-\(2\) Ames House Price Prediction https://www.kaggle.com/c/house-prices-advanced-regression-techniques  
-\(1\) RMS Titanic Survival Prediction  https://www.kaggle.com/c/titanic  
+- \(4\) Mercedes-Benz Greener Manufacturing  https://www.kaggle.com/c/mercedes-benz-greener-manufacturing  
+- \(3\) IEEE-CIS Fraud Detection https://www.kaggle.com/c/ieee-fraud-detection/  
+- \(2\) Ames House Price Prediction https://www.kaggle.com/c/house-prices-advanced-regression-techniques  
+- \(1\) RMS Titanic Survival Prediction  https://www.kaggle.com/c/titanic  
 Stock Photos from unsplash.com  
-Car assembly line by Lenny Kuhne: https://unsplash.com/photos/jHZ70nRk7Ns
-Business Man with a credit card by rupixen https://unsplash.com/photos/Q59HmzK38eQ
+- Car assembly line by Lenny Kuhne: https://unsplash.com/photos/jHZ70nRk7Ns
+- Business Man with a credit card by rupixen https://unsplash.com/photos/Q59HmzK38eQ
 
 # Misc (Monte Carlo)
 - [Monte Carlo calculation on Dice and Pi with Numpy Random](https://github.com/er1czz/kaggle/blob/master/Monte%20Carlo's%20Dice%20and%20Pi.ipynb)
