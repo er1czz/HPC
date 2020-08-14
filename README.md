@@ -1,5 +1,5 @@
 # Data challenge log
-### 4. [Mercedes-Benz Greener Manufacturing](https://github.com/er1czz/data_challenges/blob/master/Mercedes_Manufacturing_v2.ipynb)
+## 4. [Mercedes-Benz Greener Manufacturing](https://github.com/er1czz/data_challenges/blob/master/Mercedes_Manufacturing_v2.ipynb)
 <img src="https://github.com/er1czz/data_challenges/blob/master/car_740_480.jpg?raw=true" align = "right" alt="drawing" width="370"> 
 
 <b>Situation</b>:  
@@ -18,7 +18,7 @@
 - Top 3 features together require more than 40% time for testing, which are ID, X314, and X315.  
 - Feature X314: took 35.8% testing time, about 36 seconds average.  
 
-### 3. IEEE-CIS Fraud Detection
+## 3. [IEEE-CIS Fraud Detection](https://github.com/er1czz/kaggle/blob/master/Fraud_Detection_fullset_4.ipynb)
 <img src="https://github.com/er1czz/data_challenges/blob/master/unsplash_transaction.JPG?raw=true" align = "right" style = "border:10px solid white">  
 
 <b>Situation</b>:
@@ -45,7 +45,7 @@
 
 Note: due to the limit of computation power, computation-demanding actions are not performed including cross-validation, learning curve, and the fine tuning of model hyperparameters.
 
-<b> previous versions:</b>  
+<b> Previous versions:</b>  
 [Version 3](https://github.com/er1czz/kaggle/blob/master/Fraud_Detection_fullset_3.ipynb)   
 - F<sub>1</sub> score 0.67 by XGBoost model
 - F<sub>1</sub> score 0.60 by LightGBM model
@@ -66,11 +66,11 @@ Note: due to the limit of computation power, computation-demanding actions are n
 - F<sub>1</sub> score 0.29 by RandomForest model 
 - F<sub>1</sub> score 0.15 by Logistic model 
 - To do: data cleaning, feature selection 
-### 2. Ames House Price Prediction (model fitting practice) - [analysis](https://github.com/er1czz/kaggle/blob/master/House_prices_analysis.ipynb) - [regression](https://github.com/er1czz/kaggle/blob/master/House_prices_regression.ipynb)
+## 2. Ames House Price Prediction (model fitting practice) - [analysis](https://github.com/er1czz/kaggle/blob/master/House_prices_analysis.ipynb) - [regression](https://github.com/er1czz/kaggle/blob/master/House_prices_regression.ipynb)
 - Random forest regression, **RMSE** score 0.14319 for training and 0.18125 for testing 
 - RMLE (Root Mean Squared Log Error): lower score is better, testing score provided by Kaggle
 - To do: exploratory data analysis and feature selection
-### 1. RMS Titanic Survival Prediction (testing water) - [analysis](https://github.com/er1czz/kaggle/blob/master/Titanic_analysis.ipynb) - [classification](https://github.com/er1czz/kaggle/blob/master/Titanic_classifier.ipynb)
+## 1. RMS Titanic Survival Prediction (testing water) - [analysis](https://github.com/er1czz/kaggle/blob/master/Titanic_analysis.ipynb) - [classification](https://github.com/er1czz/kaggle/blob/master/Titanic_classifier.ipynb)
 - Random forest classification, **accuracy** score 0.81930 for training and 0.77033 for testing
 - Accuracy score: higher score is better, testing score provided by Kaggle
 - To do: Monte Carlo to simulate the missing data, especially passenger age.
