@@ -45,7 +45,7 @@
 
 Note: due to the limit of computation power, computation-demanding actions are not performed including cross-validation, learning curve, and the fine tuning of model hyperparameters.
 
-<b> previous versions:</b>
+<b> previous versions:</b>  
 [Version 3](https://github.com/er1czz/kaggle/blob/master/Fraud_Detection_fullset_3.ipynb)   
 - F<sub>1</sub> score 0.67 by XGBoost model
 - F<sub>1</sub> score 0.60 by LightGBM model
