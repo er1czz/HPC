@@ -1,5 +1,5 @@
 # Data challenge log
-## 4. [Mercedes-Benz Greener Manufacturing (Regression)](https://github.com/er1czz/data_challenges/blob/master/Mercedes_Manufacturing_v2.ipynb)
+## 4. Mercedes-Benz Greener Manufacturing [Regression](https://github.com/er1czz/data_challenges/blob/master/Mercedes_Manufacturing_v2.ipynb)
 <img src="https://github.com/er1czz/data_challenges/blob/master/car_740_480.jpg?raw=true" align = "right" alt="drawing" width="370"> 
 
 <b>Situation</b>:  
@@ -18,7 +18,7 @@
 - Top 3 features together require more than 40% time for testing, which are ID, X314, and X315.  
 - Feature X314: took 35.8% testing time, about 36 seconds average.  
 
-## 3. [IEEE-CIS Fraud Detection (Classification)](https://github.com/er1czz/kaggle/blob/master/Fraud_Detection_fullset_4.ipynb)
+## 3. IEEE-CIS Fraud Detection [Classification](https://github.com/er1czz/kaggle/blob/master/Fraud_Detection_fullset_4.ipynb)
 <img src="https://github.com/er1czz/data_challenges/blob/master/unsplash_transaction.JPG?raw=true" align = "right" style = "border:10px solid white">  
 
 <b>Situation</b>:
