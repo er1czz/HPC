@@ -44,17 +44,15 @@
 - Improvement: data normalization, model optimization
 
 [<b>Post analysis on hyperparameters</b>](https://github.com/er1czz/kaggle/blob/master/XGB_opt.ipynb)   
-Optimal settings:
-- learning rate 0.1
-- subsample \[0.5, 1\]
-- n_estimater 1000  
-- max_depth \[6, 9\]  
-which are consisten with the best settings found in version 4 <b>(learning_rate=0.1, subsample=1.0 ,n_estimators=1000, max_depth=9)</b>.
+Optimal settings were identified: learning rate 0.1, subsample \[0.5, 1\], n_estimater 1000; max_depth \[6, 9\]    
+- which are consisten with the best settings found in version 4.
 
 Note:
-- Due to the limit of computation power, the following computation-demanding actions are not performed, such as cross-validation, learning curve, and the fine tuning of model hyperparameters.
+- Due to the limit of computation power, the following computation-demanding actions are not performed:
+- Such as cross-validation, learning curve, and the fine tuning of model hyperparameters.
 
-[<b>Version 3</b>](https://github.com/er1czz/kaggle/blob/master/Fraud_Detection_fullset_3.ipynb)   
+<b> previous versions:</b>
+[Version 3](https://github.com/er1czz/kaggle/blob/master/Fraud_Detection_fullset_3.ipynb)   
 - F<sub>1</sub> score 0.67 by XGBoost model
 - F<sub>1</sub> score 0.60 by LightGBM model
 - F<sub>1</sub> score 0.49 by RandomForest model 
@@ -62,14 +60,14 @@ Note:
 - Improvement: feature selection
 - To do: model optimization, data normalization, learning curve, cross-validation
 
-[<b>Version 2</b>](https://github.com/er1czz/kaggle/blob/master/Fraud_Detection_fullset_2.ipynb)
+[Version 2](https://github.com/er1czz/kaggle/blob/master/Fraud_Detection_fullset_2.ipynb)
 - F<sub>1</sub> score 0.70 by XGboost model 
 - F<sub>1</sub> score 0.44 by RandomForest model 
 - F<sub>1</sub> score 0.28 by Logistic model 
 - Improvement: data cleaning
 - To do: feature selection
 
-[<b>Version 1</b>](https://github.com/er1czz/kaggle/blob/master/Fraud_Detection_fullset.ipynb)   
+[Version 1](https://github.com/er1czz/kaggle/blob/master/Fraud_Detection_fullset.ipynb)   
 - F<sub>1</sub> score 0.15 by XGboost model 
 - F<sub>1</sub> score 0.29 by RandomForest model 
 - F<sub>1</sub> score 0.15 by Logistic model 
