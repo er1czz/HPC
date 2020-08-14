@@ -34,10 +34,10 @@ Note:
 - Due to the limit of computation power, the following computation-demanding actions are not performed, such as cross-validation, learning curve, and the fine tuning of model hyperparameters.
 
 [<b>Version 3</b>](https://github.com/er1czz/kaggle/blob/master/Fraud_Detection_fullset_3.ipynb)   
-- F<sub>1</sub> score 0.65 by XGBoost model
+- F<sub>1</sub> score 0.67 by XGBoost model
 - F<sub>1</sub> score 0.60 by LightGBM model
 - F<sub>1</sub> score 0.49 by RandomForest model 
-- F<sub>1</sub> score 0.20 by Logistic model 
+- F<sub>1</sub> score 0.21 by Logistic model 
 - Improvement: feature selection
 - To do: model optimization, data normalization, learning curve, cross-validation
 
