@@ -8,12 +8,16 @@
 - Each manufactured automobile needs to be tested to ensure the safety and reliability.  
 - Testing is a time-consuming process     
 - Different cars have different configurations/features  
+
 <b>Task</b>:  
 - Optimizing the speed of testing system using a algorithmic approach    
+
 <b>Action</b>:  
 - Using regression models to identify key features that affect the testing time.  
+
 <b>Results</b>:  
-- Regression models were applied to analyze the correlation between features and testing time:  
+- Regression models were applied to analyze the correlation between features and testing time  
+
 <b>Takeaways</b>:  
 - Key features were identified. Effort should be prioritized on optimizing those key features.  
 - Top 3 features together require more than 40% time for testing, which are ID, X314, and X315.  
