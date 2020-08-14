@@ -36,7 +36,7 @@
 - High precision - less financial loss - favorable for small banking of limited number of transactions.
 - High recall - less false flags - better user experience - favorable for large banking.
 
-[<b> <em>Latest</em> Version 4</b>](https://github.com/er1czz/kaggle/blob/master/Fraud_Detection_fullset_4.ipynb)
+[<b> Version 4</b>](https://github.com/er1czz/kaggle/blob/master/Fraud_Detection_fullset_4.ipynb) <b>(<em>Latest</em>)</b>  
 - F<sub>1</sub> score 0.71 by XGBoost model
 - F<sub>1</sub> score 0.60 by LightGBM model
 - F<sub>1</sub> score 0.48 by RandomForest model 
