@@ -5,18 +5,15 @@
 <img src="https://github.com/er1czz/data_challenges/blob/master/car_740_480.jpg?raw=true" align = "right" alt="drawing" width="370"> 
 
 <b>Situation</b>:  
-- Each manufactured automobile needs to be tested to ensure the safety and reliability.  
+- Assembled automobiles need to be tested to ensure the safety and reliability.  
 - Testing is a time-consuming process     
 - Different cars have different configurations/features  
 
-<b>Task</b>:  
-- Optimizing the speed of testing system using a algorithmic approach    
+<b>Task</b>: how to cut the testing time using a algorithmic approach?    
 
-<b>Action</b>:  
-- Using regression models to identify key features that affect the testing time.  
+<b>Action</b>: using regression models to identify key features that affect the testing time.  
 
-<b>Results</b>:  
-- Regression models were applied to analyze the correlation between features and testing time  
+<b>Results</b>: regression models were applied to analyze the correlation between features and testing time  
 
 <b>Takeaways</b>:  
 - Key features were identified. Effort should be prioritized on optimizing those key features.  
@@ -26,11 +23,17 @@
 ### 3. IEEE-CIS Fraud Detection
 <img src="https://github.com/er1czz/data_challenges/blob/master/unsplash_transaction.JPG?raw=true" align = "right" style = "border:10px solid white">  
 
-Credit card fraud is a common financial fraud. During pandemic, shopping everything online is the new norm. How to maximaize the transaction security with minimal hassles to clients? With the recent advance in machine learning and computation technology, this challenge can be addressed by implementing high accuracy predictive algorithms by machine learning.       
+<b>Situation</b>:
+- Credit card fraud is a common financial fraud, especially during pandemic.
+- Shopping everything online is the new norm.
 
-This project intends to develop a predicative model based on machine learning algorithms. The goal is to maximize the detection rate of fradulent activities while minimizing the number of false alarms (false positive events). To improve the model's performance, such as precision and recall, one need to consider the customers' need and how the decision affects the business. Large financial insititutes may perfer high recall model due to the large number of transactions, whereas small ones may emphasize on the model precision.
+<b>Task</b>: how to maximaize the transaction security with minimal hassles to clients?
 
-Business impact: 
+<b>Action</b>: developing a predicative model based on machine learning algorithms of binary classification.
+
+<b>Results</b>: maximized the detection rate of fradulent activities while minimizing the number of false alarms (false positive events).
+
+<b>Takeaways</b>: 
 - For fraud detection, both precision and recall need to be considered for evaluating model performance.
 - High precision - less financial loss - favorable for small banking of limited number of transactions.
 - High recall - less false flags - better user experience - favorable for large banking.
