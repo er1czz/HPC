@@ -1,6 +1,6 @@
 # Data challenge log
 ## 4. Mercedes-Benz Greener Manufacturing - [regression](https://github.com/er1czz/data_challenges/blob/master/Mercedes_Manufacturing_v2.ipynb)
-<img src="https://github.com/er1czz/data_challenges/blob/master/car_740_480.jpg?raw=true" align = "right" alt="drawing" width="370"> 
+<img src="https://github.com/er1czz/data_challenges/blob/master/car_740_480.jpg?raw=true" align = "right" alt="drawing" width="300"> 
 
 <b>Situation</b>:  
 - Assembled automobiles need to be tested to ensure the safety and reliability.  
