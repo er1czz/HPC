@@ -1,4 +1,7 @@
 # Data challenge log
+
+## Data challenge at Insight [link](https://github.com/er1czz/data_challenge_insight)
+
 ## 4. Mercedes-Benz Greener Manufacturing - [a regression problem and its solution](https://github.com/er1czz/data_challenges/blob/master/Mercedes_Manufacturing_v3.ipynb)
 <img src="https://github.com/er1czz/data_challenges/blob/master/car_740_480.jpg?raw=true" align = "right" alt="drawing" width="300"> 
 
